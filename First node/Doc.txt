@@ -1,0 +1,3 @@
+In this tutorial there will be some examples that are better explained by displaying the result in the command line interface.
+
+When this happens, The "Show Node.js" tool will show the result in a black screen on the right:
